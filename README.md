@@ -101,8 +101,8 @@
 
 Результатом работы являются три файла в формате `.sql`:
 
-- `[insert_requests.sql](insert_requests.sql)` с INSERT-запросами (задание 1)
-- `[select_requests.sql](select_requests.sql)` с SELECT-запросами (задания 2, 3, 4)
-- `[create_requests.sql](create_requests.sql)` с CREATE-запросами (из предыдущей домашней работы)
+- [insert_requests.sql](./insert_requests.sql) с INSERT-запросами (задание 1)
+- [select_requests.sql](./select_requests.sql) с SELECT-запросами (задания 2, 3, 4)
+- [create_requests.sql](./create_requests.sql) с CREATE-запросами (из предыдущей домашней работы)
 
 Эти файлы содержат весь код, необходимый для создания базы данных музыкального сервиса, заполнения ее данными и выполнения различных запросов для получения информации.
